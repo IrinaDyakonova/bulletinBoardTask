@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>boot-preparation</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>boot-preparation</name>
+    <name>taskBulletinBoard</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
